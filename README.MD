@@ -1,6 +1,3 @@
-KernFerm: make me a README.MD
-
-GitHub Copilot: ```markdown
 # Project Title
 
 A brief description of what this project does and who it's for.
