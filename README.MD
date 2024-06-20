@@ -298,6 +298,4 @@ Contributions to PID Identifier are welcome! If you have suggestions for improve
 ## License
 
 PID Identifier is released under the MIT License. See the LICENSE file for more details.
-```
 
-This README provides a basic structure for your project, including sections for an overview, features, installation instructions, usage guide, contribution guidelines, and license information. Adjust the content as necessary to fit your project's specifics.
