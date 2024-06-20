@@ -16,7 +16,7 @@ To use PID Identifier, follow these steps:
 
 **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/PID-Identifier.git
+   git clone https://github.com/KernFerm/PID-Identifier.git
    ```
 
 **Navigate to the Project Directory:**
