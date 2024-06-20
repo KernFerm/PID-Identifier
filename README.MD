@@ -3,9 +3,7 @@
 ## Overview
 PID Identifier is a Python-based tool designed to list and manage operating system processes. It provides detailed insights into running and non-running processes, including their PID (Process Identifier), name, status, memory usage, CPU time, username, and creation time. This tool leverages the `psutil` library for process management and `tabulate` for displaying information in a tabular format, making it easier for users to understand and analyze the process information.
 
-## how to download the repo first time users
 
-  - click link to read [**Instructions**](https://www.fnbubbles420.org/Instructions-On-How-To-Download-Repo)
 
 ## Dependencies
 
