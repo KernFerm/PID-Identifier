@@ -83,3 +83,6 @@ def get_user_input():
 if __name__ == "__main__":
     sort_by, filter_status = get_user_input()
     list_processes(sort_by, filter_status)
+
+    # Add a pause at the end of the script to prevent the window from closing immediately
+    input("Press Enter to exit...")
