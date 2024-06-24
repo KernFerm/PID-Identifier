@@ -15,7 +15,7 @@ PID Identifier is a Python-based tool designed to list and manage operating syst
 ## Dependencies
 
 Ensure you have the following installed before running the program:
-- Python 3.x
+- Python 3.11.6
 - `psutil` library
 - `tabulate` library
 
