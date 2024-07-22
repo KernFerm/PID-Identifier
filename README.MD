@@ -9,8 +9,6 @@ PID Identifier is a Python-based tool designed to list and manage operating syst
 
   - click link to read [**Instructions**](https://www.fnbubbles420.org/Instructions-On-How-To-Download-Repo)
 
-# Download The Exe Application 
-- [PID-Identifier](https://github.com/KernFerm/PID-Identifier/releases/tag/PID)
 
 ## Dependencies
 
