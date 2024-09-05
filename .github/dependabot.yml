@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "pip" # Specifies pip as the package manager
+    directory: "/" # Directory where your requirements.txt is located
+    schedule:
+      interval: "daily" # Set the frequency of checks
