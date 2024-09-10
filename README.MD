@@ -39,7 +39,7 @@ Before running the program, make sure you have the following installed:
 To use **PID Identifier**, follow these steps:
 
 ### 1. Clone the Repository:
-
+  - make sure to make a folder on `Desktop` then `CD` it in `CMD.exe` then do the `Git Clone`.
 ```
 git clone https://github.com/KernFerm/PID-Identifier.git
 ```
