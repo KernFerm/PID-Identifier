@@ -1,0 +1,38 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.venv/
+env/
+venv/
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore compiled files
+*.exe
+*.out
+*.o
+
+# Ignore dependency-related files
+node_modules/
+*.egg-info/
+dist/
+build/
+
+# Ignore virtual environment files
+Pipfile
+Pipfile.lock
+
+# Ignore specific files in the repository
+.github/
+install_psutil_tabulate.bat
+requirements.txt
