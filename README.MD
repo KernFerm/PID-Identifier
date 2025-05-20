@@ -113,7 +113,4 @@ This project was inspired by the need to efficiently manage and monitor processe
 - **Acknowledgments**: Recognizes contributions from others and acknowledges sources of inspiration.
 
 
-
-
-
-
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
