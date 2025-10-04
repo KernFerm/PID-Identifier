@@ -34,6 +34,7 @@ This tool leverages the `psutil` library for process management and `tabulate` f
 Before running the program, make sure you have the following installed:
 
 - [Python.org](https://python.org)
+- **MAKE SURE TO `ADD PYTHON TO PATH` WHEN INSTALLING**
 - `psutil` library
 - `tabulate` library
 
@@ -114,4 +115,5 @@ This project was inspired by the need to efficiently manage and monitor processe
 
 
 - [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+
 
