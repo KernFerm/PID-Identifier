@@ -33,7 +33,7 @@ This tool leverages the `psutil` library for process management and `tabulate` f
 
 Before running the program, make sure you have the following installed:
 
-- [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
+- [Python.org](https://python.org)
 - `psutil` library
 - `tabulate` library
 
@@ -114,3 +114,4 @@ This project was inspired by the need to efficiently manage and monitor processe
 
 
 - [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+
